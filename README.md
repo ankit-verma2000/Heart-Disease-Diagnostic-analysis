@@ -23,6 +23,11 @@ Do your own research and come up with your findings.
 # Dataset 📀
 https://drive.google.com/file/d/1U8CHK_ye5jmcuYEeIOYIYcMzK2ooqLUV/view
 
+# Tableau link:
+Dashboard 1 : https://public.tableau.com/views/HeartdiseaseDiagnosticanalysis/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Dashboard 2: https://public.tableau.com/views/HeartdiseaseDiagnosticanalysis/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 # Technology �
 Data Science
 
