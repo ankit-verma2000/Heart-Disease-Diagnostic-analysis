@@ -28,6 +28,9 @@ Dashboard 1 : https://public.tableau.com/views/HeartdiseaseDiagnosticanalysis/Da
 
 Dashboard 2: https://public.tableau.com/views/HeartdiseaseDiagnosticanalysis/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+# Insights And Recommendations:
+Present in PPT and Python file.
+
 # Technology �
 Data Science
 
